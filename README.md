@@ -28,7 +28,7 @@
 <a href="https://codepen.io/joaopfsdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joaosantos" height="20" width="20" /></a>
 <a href="https://twitter.com/joaopfsdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joaosantos" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/jo%C3%A3opfs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaosantos" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/joaopfsdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="joaosantos" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/story/joaopfs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="joaosantos" height="20" width="20" /></a>
 <a href="https://codesandbox.com/joaopfsdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="joaosantos" height="20" width="20" /></a>
 <a href="https://fb.com/joaopfsdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joaosantos" height="20" width="20" /></a>
 <a href="https://instagram.com/joaopfsdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaosantos" height="20" width="20" /></a>
